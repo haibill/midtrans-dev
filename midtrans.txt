@@ -1,0 +1,6 @@
+1. buat akun midtrans
+2. ganti server_key pada controller snap.php
+3. server_key didapat dari website midtrans
+4. ganti client_key pada view checkout_snap.php
+5. client_key didapat dari website midtrans
+6. install extension CORS Unblock pada browser

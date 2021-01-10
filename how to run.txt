@@ -1,0 +1,4 @@
+1. jalankan xampp 
+2. pastikan sudah mengimport database 'midtrans-ci'
+3. file db ada di folder database
+4. run localhost/nama-folder
